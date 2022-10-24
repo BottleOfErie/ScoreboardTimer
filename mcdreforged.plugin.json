@@ -1,0 +1,15 @@
+{
+	"id": "scoreboard_timer",
+	"version": "1.0",
+	"name": "ScoreboardTimer",
+	"description": {
+		"en_us": "Change scoreboards intervally.use !!st to check help information",
+		"zh_cn": "定时切换计分板。用!!st来查看帮助信息"
+	},
+	"author": [
+		"BottleofErie"
+	],
+	"dependencies": {
+		"mcdreforged": ">=2.1.0-beta"
+	}
+}
